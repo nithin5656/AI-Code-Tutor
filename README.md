@@ -1,0 +1,1 @@
+AI Code Tutor is a powerful VS Code extension designed to boost developer productivity and accelerate learning. Acting as your personal AI sidekick, it helps you understand complex code snippets instantly without leaving your editor.
